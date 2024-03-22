@@ -12,6 +12,7 @@ Minha afinidade é com a área de back-end e data science, porém, tenho conheci
 - JS
 - Python/PySpark
 - SQL
+- GIT
 
 # Redes Sociais
 - Linkedin
